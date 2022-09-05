@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asiedu-kev
 - 👀 I’m interested in javascript frameworks for web or mobile developement.
-- 🌱 I’m currently learning nodejs and vuejs.
-- 💞️ I’m looking to collaborate on react-native, flutter, react and laravel projects
+- 🌱 I’m currently learning nestjs and vuejs.
+- 💞️ I’m looking to collaborate on react-native, flutter, react, node and laravel projects
 - 📫 How to reach me +22962471176 / kevinasiedu.contact@gmail.com.
 
 <!---
